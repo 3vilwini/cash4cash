@@ -78,7 +78,7 @@ const P = [
  {
   "t": "instruments",
   "rate": "$40-65/hr",
-  "feel": "consuming",
+  "feel": "resonant",
   "sAt": [12.1, 11.8, 23.6],
   "glyph": "img/instruments-glyph.gif",
   "suit": "heart",
