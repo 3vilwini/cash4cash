@@ -99,7 +99,7 @@ const P = [
   "glyph": "img/luv2lose-glyph.gif",
   "suit": "joker",
   "pole": "neither",
-  "s": "LUV2LOSE is a strip-club-themed scoreboard + gambling interface that accompanies any 4-player game and lets you keep points or buy ASCII lap dances for the table.",
+  "s": "LUV2LOSE is a strip-club-themed scoreboard + gambling interface that accompanies any 4-player game, where you can choose between accumulating chips + buying ASCII lap dances for the table.",
   "ascii": ASCII_LOSE
  },
  {
