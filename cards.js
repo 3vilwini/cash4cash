@@ -184,13 +184,13 @@ const P = [
     "frames": ["img/violence-by-design-01.jpg", "img/violence-by-design-02.jpg", "img/violence-by-design-03.jpg", "img/violence-by-design-04.jpg", "img/violence-by-design-05.jpg", "img/violence-by-design-06.jpg", "img/violence-by-design-07.jpg", "img/violence-by-design-08.jpg", "img/violence-by-design-09.jpg", "img/violence-by-design-10.jpg"],
     "every": 1000,
      "crop": "6862 / 4897",
-    "caption": "limited edition of 500 / edited in collaboration with the funambulist / 2024",
+    "caption": "limited edition of 500 / edited in collaboration with the funambulist / 2020",
     "from": "n0", "at": [0, 0, 42.3] }
   ],
   "extra": [
    {
     "from": "n0",
-    "text": "with contributions, excerpts + artworks from Léopold Lambert, H.S. Aaron, Cameron Rowland, Tings Chak, The Marshall Project, Elmgreen & Dragset, Sean Bonney, Ksenija Berk, Rebecca Godderis, S. Lamble, Monica Mohapatra, Cherise Morris, Naomi Murakawa, Jackie Wang, Bill Keller, James Baldwin, Hakim Bey, Angela Davis, Michel Foucault, Ruth Wilson Gilmore, The Simpsons S16E14, Yale School of Architecture, CCA",
+    "text": "with contributions, excerpts + artworks from Léopold Lambert, H.S. Aaron, Cameron Rowland, Tings Chak, The Marshall Project, Elmgreen & Dragset, Sean Bonney, Ksenija Berk, Rebecca Godderis, S. Lamble, Monica Mohapatra, Cherise Morris, Naomi Murakawa, Jackie Wang, Bill Keller, The Simpsons S16E14, Yale School of Architecture, CCA",
     "at": [76.52, 50.43, 23.6]
    }
   ]
