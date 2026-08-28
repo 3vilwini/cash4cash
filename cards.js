@@ -55,7 +55,7 @@ const P = [
   ],
   "extra": [
    {
-    "text": "behind-the-scenes documentation + case studies for remotely-produced films + series, covering production crews + technical workflows behind studio releases",
+    "text": "behind-the-scenes documentation for remotely-produced films + series — case studies + technical workflows behind studio releases",
     "at": [69.6, 91.9, 23.6]
    }
   ]
@@ -83,7 +83,7 @@ const P = [
   "glyph": "img/instruments-glyph.gif",
   "suit": "heart",
   "pole": "good",
-  "s": "project development + strategy for research-based tools, platforms + collections: editing, translating, assembling + drafting positions that read across critical theory, cultural economies + design history.",
+  "s": "project development + strategy for research-based tools, platforms, collections: editing, translating, assembling + drafting positions that read across critical theory, cultural economies + design history",
   "media": [
    { "src": "img/instruments-src.jpg", "from": "n0", "caption": "[conception + editing] vera kox: into / mousse publishing / 2024", "at": [1.17, 51.83, 25.98] },
    { "src": WFF, "from": "n0", "caption": "[architecture + positioning] workforfree.rip / with jca, art workers italia, platform bk, industria / 2026", "at": [30.4, 59.2, 22.7] },
@@ -99,7 +99,7 @@ const P = [
   "glyph": "img/luv2lose-glyph.gif",
   "suit": "joker",
   "pole": "neither",
-  "s": "LUV2LOSE is a strip-club-themed scoreboard and gambling interface that accompanies any 4-player game and lets you keep points or buy ASCII lap dances for the table.",
+  "s": "LUV2LOSE is a strip-club-themed scoreboard + gambling interface that accompanies any 4-player game and lets you keep points or buy ASCII lap dances for the table.",
   "ascii": ASCII_LOSE
  },
  {
@@ -117,7 +117,7 @@ const P = [
    {
     "from": "n0",
     "kind": "inverted",
-    "text": "2022-2025 late-night public programs platforming global majority + emerging artists: time-based media, performance, solidarity initiatives.",
+    "text": "2022-2025 late-night public programs platforming emerging artists + collective practices: time-based media, performance, solidarity initiatives.",
     "at": [67.97, 42.13, 23.6]
    }
   ]
