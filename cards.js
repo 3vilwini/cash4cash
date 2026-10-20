@@ -135,7 +135,7 @@ const P = [
   "extra": [
    {
     "from": "img",
-    "text": "MARXISM.XXX is a living syllabus + NSFW reference library, bc communists have fetishes too &lt;3 an adult site that reads \u201cfetish\u201d through both its kink and materialist definitions \u2014 labor, desire, property, surplus, technology \u2014 wherein fetishization is an infinite cycle: desire deconstructed in one place will eventually, but inevitably, project itself onto another state.",
+    "text": "MARXISM.XXX is a living syllabus + NSFW reference library, bc communists have fetishes too &lt;3 most of all for the real, always just behind the next surface: a premium category whose exchange rate we set every time we look. An adult site that reads \u201cfetish\u201d through both its kink and materialist definitions \u2014 labor, desire, property, surplus, technology \u2014 wherein fetishization is an infinite cycle: desire deconstructed in one place will eventually, but inevitably, project itself onto another state.",
     "at": [59.57, -6.86, 23.6]
    }
   ]
