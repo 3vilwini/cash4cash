@@ -129,7 +129,8 @@ const P = [
   "pole": "neither",
   "imgFrom": "card",
   "media": [
-   { "src": MARXXXISM, "at": [3.28, -8.98, 41.62] }
+   { "src": MARXXXISM, "at": [3.28, -8.98, 41.62] },
+   { "src": "img/marxism-real-true-love.png", "caption": "search: real true love", "at": [8, 57, 28] }
   ],
   "extra": [
    {
