@@ -163,14 +163,14 @@ const P = [
   ]
  },
  {
-  "t": "sunday serve-us",
-  "sAt": [24.89, 46.95, 23.6],
+  "t": "sunday server",
+  "sAt": [24.89, 30, 23.6],
   "nowires": true,
   "sKind": "inverted",
-  "glyph": "img/sunday-serve-us-glyph.gif",
+  "glyph": "img/sunday-server-glyph.gif",
   "suit": "heart",
   "pole": "study",
-  "s": "sundays, by invitation",
+  "s": "SUNDAY SERVER is a subscription service run on a private server, open on Sundays. Gifts are exchanged for instructions, delivered as itemized receipts with totals in time rather than money.",
   "media": []
  },
  {
