@@ -218,10 +218,12 @@ const P = [
     "caption": "l\u2019empire du bureau : 1900-2000 / mus\u00e9e des arts d\u00e9coratifs / 1984",
     "at": [9.53, 38.33, 22.87] },
    {
-    "src": "img/bureau-bourreau-minitel.jpg",
+    "frames": ["img/bureau-bourreau-minitel.jpg", "img/bureau-bourreau-minitel-2.jpg"],
+    "every": 1800,
+    "crop": "4 / 3",
     "from": "n0",
-    "caption": "minitel rose / dialogue et rencontres en libert\u00e9 / connexion 0,00F/min / image : France 3",
-    "at": [42, -14, 21] }
+    "caption": "minitel rose / \u00ab dialogue et rencontres en libert\u00e9 \u00bb, connexion 0,00F/min / \u00ab la messagerie lib\u00e9r\u00e9e \u00bb, -18 ans sera d\u00e9connect\u00e9 / image 1 : France 3",
+    "at": [42, -14, 19] }
   ],
   "extra": [
    {
