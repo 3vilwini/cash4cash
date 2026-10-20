@@ -198,7 +198,7 @@ const P = [
  {
   "t": "bureau bourreau",
   "sAt": [3.04, -8.76, 36.38],
-  "glyph": "img/bureau-bourreau-pager.png",
+  "glyph": "img/bureau-bourreau-rose.gif",
   "suit": "club",
   "pole": "study",
   "s": "BUREAU BOURREAU is a digitized + translated archive of Jack Lang's 1982-1984 office design competition <i>Le concours du mobilier de bureau</i> + the exhibition that followed at the Mus\u00e9e des Arts D\u00e9coratifs, <i>L\u2019Empire du Bureau</i>. Advanced under the sign of utopian design, the competition functioned as a state program treating the desk as a site of modernization, where the worker is alienated in comfort + labor is rehoused as lifestyle. The archive assembles these entries as evidence of a power that proceeds obliquely \u2014 through objects, schedules + programmed desire lodged in everyday infrastructure \u2014 where governance becomes intimate + domination is internalized.",
