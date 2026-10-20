@@ -109,7 +109,7 @@ const P = [
   "spiral": true,
   "nowires": true,
   "sKind": "inverted",
-  "glyph": "img/after-hours-glyph.gif",
+  "glyph": "img/after-hours-cherries.gif",
   "suit": "joker",
   "pole": "neither",
   "s": "AFTER HOURS is a shared space + <i>prix libre</i> bar in Paris by + for artists, care workers, djs, researchers, activists + friends.",
