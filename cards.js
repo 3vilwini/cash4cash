@@ -112,7 +112,7 @@ const P = [
   "glyph": "img/after-hours-cherries.gif",
   "suit": "joker",
   "pole": "neither",
-  "s": "AFTER HOURS is a shared space + <i>prix libre</i> bar in Paris that operates through economies running outside official working hours: nightlife, gambling, barter + mutual aid.",
+  "s": "AFTER HOURS is a shared space + <i>prix libre</i> bar in Paris that operates through informal economies: nightlife, gambling, barter + mutual aid.",
   "extra": [
    {
     "from": "n0",
