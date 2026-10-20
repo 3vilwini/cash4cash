@@ -211,19 +211,15 @@ const P = [
     "caption": "Ramond/Strafor, Scibilia-Guillet/Clen, Alessandri/Knoll, Stanton-Robin/Parisot, \u00c9quipe Hebey/Sansen-Unimob, Nakamura/Ciolino-Grivel-Leroy, Pesce/Parisot / Le concours du mobilier de bureau / 1982-1984",
     "at": [70.15, -20.42, 27.92] },
    {
-    "frames": ["img/bureau-bourreau-10.jpg", "img/bureau-bourreau-11.jpg", "img/bureau-bourreau-12.jpg", "img/bureau-bourreau-13.jpg"],
-    "every": 1450,
-    "crop": "1 / 1",
+    "src": "img/bureau-bourreau-minitel-2.jpg",
     "from": "n0",
-    "caption": "l\u2019empire du bureau : 1900-2000 / mus\u00e9e des arts d\u00e9coratifs / 1984",
+    "caption": "minitel rose / \u00ab la messagerie lib\u00e9r\u00e9e \u00bb / tout pseudo ou message en rapport avec la drague, prostitution, pub, incitation \u00e0 la d\u00e9bauche, -18 ans sera d\u00e9connect\u00e9",
     "at": [9.53, 38.33, 22.87] },
    {
-    "frames": ["img/bureau-bourreau-minitel.jpg", "img/bureau-bourreau-minitel-2.jpg"],
-    "every": 1800,
-    "crop": "4 / 3",
+    "src": "img/bureau-bourreau-minitel.jpg",
     "from": "n0",
-    "caption": "minitel rose / \u00ab dialogue et rencontres en libert\u00e9 \u00bb, connexion 0,00F/min / \u00ab la messagerie lib\u00e9r\u00e9e \u00bb, -18 ans sera d\u00e9connect\u00e9 / image 1 : France 3",
-    "at": [42, -14, 19] }
+    "caption": "minitel rose / dialogue et rencontres en libert\u00e9 / connexion 0,00F/min / image : France 3",
+    "at": [42, -14, 21] }
   ],
   "extra": [
    {
