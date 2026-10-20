@@ -123,15 +123,21 @@ const P = [
   ]
  },
  {
-  "t": "sunday serve-us",
-  "sAt": [24.89, 46.95, 23.6],
-  "nowires": true,
-  "sKind": "inverted",
-  "glyph": "img/sunday-serve-us-glyph.gif",
+  "t": "marxism.xxx",
+  "glyph": "img/marxism-xxx-glyph.gif",
   "suit": "joker",
   "pole": "neither",
-  "s": "sundays, by invitation",
-  "media": []
+  "imgFrom": "card",
+  "media": [
+   { "src": MARXXXISM, "at": [3.28, -8.98, 41.62] }
+  ],
+  "extra": [
+   {
+    "from": "img",
+    "text": "MARXISM.XXX is a living syllabus + NSFW reference library, bc communists have fetishes too &lt;3 an adult site that reads \u201cfetish\u201d through both its kink and materialist definitions \u2014 labor, desire, property, surplus, technology \u2014 wherein fetishization is an infinite cycle: desire deconstructed in one place will eventually, but inevitably, project itself onto another state.",
+    "at": [59.57, -6.86, 23.6]
+   }
+  ]
  },
  {
   "t": "cash!",
@@ -156,21 +162,15 @@ const P = [
   ]
  },
  {
-  "t": "marxism.xxx",
-  "glyph": "img/marxism-xxx-glyph.gif",
+  "t": "sunday serve-us",
+  "sAt": [24.89, 46.95, 23.6],
+  "nowires": true,
+  "sKind": "inverted",
+  "glyph": "img/sunday-serve-us-glyph.gif",
   "suit": "heart",
   "pole": "study",
-  "imgFrom": "card",
-  "media": [
-   { "src": MARXXXISM, "at": [3.28, -8.98, 41.62] }
-  ],
-  "extra": [
-   {
-    "from": "img",
-    "text": "MARXISM.XXX is a living syllabus + NSFW reference library, bc communists have fetishes too &lt;3 an adult site that reads \u201cfetish\u201d through both its kink and materialist definitions \u2014 labor, desire, property, surplus, technology \u2014 wherein fetishization is an infinite cycle: desire deconstructed in one place will eventually, but inevitably, project itself onto another state.",
-    "at": [59.57, -6.86, 23.6]
-   }
-  ]
+  "s": "sundays, by invitation",
+  "media": []
  },
  {
   "t": "violence by design",
