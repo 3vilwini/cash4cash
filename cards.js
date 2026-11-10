@@ -180,7 +180,7 @@ const P = [
   "glyph": "img/violence-by-design-glyph.gif",
   "suit": "spade",
   "pole": "study",
-  "s": "<i>Violence by Design</i> is a printed supplement to <i>The Funambulist</i> #29, published as prison architecture competitions surge + \u201cpenitentiary innovation\u201d trends across Ivy League departments. Long understood as a machine for profit + war, the prison industrial complex also manufactures debt through sentencing, a revenue stream that several other functions of the state quietly depend on. Artworks, case studies + essays trace the elaborate schemes that directly implicate designers + architects, as well as the broader construction of carceral logic.",
+  "s": "<i>Violence by Design</i> is a printed supplement to <i>The Funambulist</i> #29: <i>States of Emergency</i>, an issue published amid COVID-19 that argued declared \u201cstates of emergency\u201d are not exceptions but intensifications of normalized colonial + state violence. Addressing carceral logic, it draws direct ties between prison + profit, exposing the penal system as a self-appointed keeper of \u201corder\u201d that manufactures debt from the populations it deems lesser: a revenue stream that several other functions of the state quietly depend on. Artworks, case studies + essays trace the elaborate schemes that directly implicate designers + architects in an economy of segregation, debt + punishment.",
   "media": [
    {
     "frames": ["img/violence-by-design-01.jpg", "img/violence-by-design-02.jpg", "img/violence-by-design-03.jpg", "img/violence-by-design-04.jpg", "img/violence-by-design-05.jpg", "img/violence-by-design-06.jpg", "img/violence-by-design-07.jpg", "img/violence-by-design-08.jpg", "img/violence-by-design-09.jpg", "img/violence-by-design-10.jpg"],
