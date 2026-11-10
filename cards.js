@@ -199,7 +199,7 @@ const P = [
  },
  {
   "t": "bureau bourreau",
-  "sAt": [3.04, -8.76, 36.38],
+  "sAt": [3.04, -18, 30],
   "glyph": "img/bureau-bourreau-rose.gif",
   "suit": "club",
   "pole": "study",
@@ -213,15 +213,12 @@ const P = [
     "caption": "Ramond/Strafor, Scibilia-Guillet/Clen, Alessandri/Knoll, Stanton-Robin/Parisot, \u00c9quipe Hebey/Sansen-Unimob, Nakamura/Ciolino-Grivel-Leroy, Pesce/Parisot / Le concours du mobilier de bureau / 1982-1984",
     "at": [70.15, -20.42, 27.92] },
    {
-    "src": "img/bureau-bourreau-minitel-2.jpg",
+    "frames": ["img/bureau-bourreau-minitel.jpg", "img/bureau-bourreau-minitel-2.jpg"],
+    "every": 1400,
+    "crop": "4 / 3",
     "from": "n0",
-    "caption": "Minitel Rose / la messagerie lib\u00e9r\u00e9e",
-    "at": [43, -14, 17] },
-   {
-    "src": "img/bureau-bourreau-minitel.jpg",
-    "from": "n0",
-    "caption": "Minitel Rose / dialogue et rencontres en libert\u00e9",
-    "at": [8, 50, 27] }
+    "caption": "Minitel Rose / dialogue et rencontres en libert\u00e9 / la messagerie lib\u00e9r\u00e9e",
+    "at": [8, 54, 25] }
   ],
   "extra": [
    {
