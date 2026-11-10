@@ -131,7 +131,7 @@ const P = [
   "glyph": "img/sunday-server-glyph.gif",
   "suit": "joker",
   "pole": "neither",
-  "s": "SUNDAY SERVER is a subscription service run on a private server, open on Sundays. Gifts are exchanged for instructions, delivered as itemized receipts with totals in time rather than money.",
+  "s": "SUNDAY SERVER is a subscription service run on a private server, open on Sundays: offer either time or instruction + receive the other in return.",
   "media": []
  },
  {
