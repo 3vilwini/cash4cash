@@ -163,7 +163,7 @@ const P = [
   "imgFrom": "card",
   "media": [
    { "src": MARXXXISM, "at": [3.28, -8.98, 41.62] },
-   { "src": "img/marxism-real-true-love.png", "at": [44, 70, 18] }
+   { "src": "img/marxism-real-true-love.png", "at": [62, 70, 18] }
   ],
   "extra": [
    {
