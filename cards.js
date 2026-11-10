@@ -219,7 +219,7 @@ const P = [
    {
     "src": "img/bureau-bourreau-minitel.jpg",
     "from": "n0",
-    "caption": "minitel rose / dialogue et rencontres en libert\u00e9 / connexion 0,00F/min / image : France 3",
+    "caption": "Minitel Rose / <i>dialogue et rencontres en libert\u00e9</i>",
     "at": [42, -14, 21] }
   ],
   "extra": [
