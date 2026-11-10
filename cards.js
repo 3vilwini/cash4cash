@@ -125,7 +125,7 @@ const P = [
  },
  {
   "t": "sunday server",
-  "sAt": [44, 26, 23.6],
+  "sAt": [30, 26, 23.6],
   "nowires": true,
   "sKind": "inverted",
   "glyph": "img/sunday-server-glyph.gif",
