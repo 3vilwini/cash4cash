@@ -123,22 +123,15 @@ const P = [
   ]
  },
  {
-  "t": "marxism.xxx",
-  "glyph": "img/marxism-xxx-glyph.gif",
+  "t": "sunday server",
+  "sAt": [44, 26, 23.6],
+  "nowires": true,
+  "sKind": "inverted",
+  "glyph": "img/sunday-server-glyph.gif",
   "suit": "joker",
   "pole": "neither",
-  "imgFrom": "card",
-  "media": [
-   { "src": MARXXXISM, "at": [3.28, -8.98, 41.62] },
-   { "src": "img/marxism-real-true-love.png", "at": [80, 76, 18] }
-  ],
-  "extra": [
-   {
-    "from": "img",
-    "text": "MARXISM.XXX is a living syllabus + NSFW reference library, bc communists have fetishes too &lt;3 especially for the real, the thing we chase behind every surface: a premium category whose exchange rate we set every time we look. An adult site that reads \u201cfetish\u201d through both its kink and materialist definitions \u2014 labor, desire, property, surplus, technology \u2014 wherein fetishization is an infinite cycle: desire deconstructed in one place will eventually, but inevitably, project itself onto another state.",
-    "at": [59.57, -6.86, 23.6]
-   }
-  ]
+  "s": "SUNDAY SERVER is a subscription service run on a private server, open on Sundays. Gifts are exchanged for instructions, delivered as itemized receipts with totals in time rather than money.",
+  "media": []
  },
  {
   "t": "cash!",
@@ -163,15 +156,22 @@ const P = [
   ]
  },
  {
-  "t": "sunday server",
-  "sAt": [24.89, 30, 23.6],
-  "nowires": true,
-  "sKind": "inverted",
-  "glyph": "img/sunday-server-glyph.gif",
+  "t": "marxism.xxx",
+  "glyph": "img/marxism-xxx-glyph.gif",
   "suit": "heart",
   "pole": "study",
-  "s": "SUNDAY SERVER is a subscription service run on a private server, open on Sundays. Gifts are exchanged for instructions, delivered as itemized receipts with totals in time rather than money.",
-  "media": []
+  "imgFrom": "card",
+  "media": [
+   { "src": MARXXXISM, "at": [3.28, -8.98, 41.62] },
+   { "src": "img/marxism-real-true-love.png", "at": [44, 70, 18] }
+  ],
+  "extra": [
+   {
+    "from": "img",
+    "text": "MARXISM.XXX is a living syllabus + NSFW reference library, bc communists have fetishes too &lt;3 especially for the real, the thing we chase behind every surface: a premium category whose exchange rate we set every time we look. An adult site that reads \u201cfetish\u201d through both its kink and materialist definitions \u2014 labor, desire, property, surplus, technology \u2014 wherein fetishization is an infinite cycle: desire deconstructed in one place will eventually, but inevitably, project itself onto another state.",
+    "at": [59.57, -6.86, 23.6]
+   }
+  ]
  },
  {
   "t": "violence by design",
