@@ -215,13 +215,13 @@ const P = [
    {
     "src": "img/bureau-bourreau-minitel-2.jpg",
     "from": "n0",
-    "caption": "Minitel Rose / <i>la messagerie lib\u00e9r\u00e9e : tout pseudo ou message en rapport avec la drague, prostitution, pub, incitation \u00e0 la d\u00e9bauche, -18 ans sera d\u00e9connect\u00e9</i>",
-    "at": [9.53, 38.33, 22.87] },
+    "caption": "Minitel Rose / <i>la messagerie lib\u00e9r\u00e9e</i>",
+    "at": [42, -14, 21] },
    {
     "src": "img/bureau-bourreau-minitel.jpg",
     "from": "n0",
     "caption": "Minitel Rose / <i>dialogue et rencontres en libert\u00e9</i>",
-    "at": [42, -14, 21] }
+    "at": [9.53, 38.33, 22.87] }
   ],
   "extra": [
    {
