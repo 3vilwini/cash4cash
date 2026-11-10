@@ -203,7 +203,7 @@ const P = [
   "glyph": "img/bureau-bourreau-rose.gif",
   "suit": "club",
   "pole": "study",
-  "s": "BUREAU BOURREAU is a digitized + translated archive of Jack Lang's 1982-1984 office design competition <i>Le concours du mobilier de bureau</i> + the exhibition that followed at the Mus\u00e9e des Arts D\u00e9coratifs, <i>L\u2019Empire du Bureau</i>. Alongside the desk came the terminal: the Minitel, whose <i>messageries roses</i> turned desire into metered minutes, billed on the phone bill + shared with the state\u2019s own operator. The slow screen, the pseudonym + the paid host abstracted the transaction until it read as chemistry. The office disciplined the working day; the terminal monetized the hours after.",
+  "s": "BUREAU BOURREAU is a digitized + translated archive of Jack Lang's 1982-1984 office design competition <i>Le concours du mobilier de bureau</i> + the exhibition that followed at the Mus\u00e9e des Arts D\u00e9coratifs, <i>L\u2019Empire du Bureau</i>. Alongside the new + improved office came the terminal. Office plans were redesigned to conceal surveillance as comfort + discipline as ergonomics; the Minitel\u2019s <i>messageries roses</i> turned desire into metered minutes, with paid hosts drawing out conversations so the meter kept running. Both were devices for billing time through desire, each concealing the cost behind small rewards of attention + validation, a structure of perpetual edging.",
   "media": [
    {
     "frames": ["img/bureau-bourreau-01.jpg", "img/bureau-bourreau-02.jpg", "img/bureau-bourreau-03.jpg", "img/bureau-bourreau-04.jpg", "img/bureau-bourreau-05.jpg", "img/bureau-bourreau-06.jpg", "img/bureau-bourreau-07.jpg", "img/bureau-bourreau-08.jpg", "img/bureau-bourreau-09.jpg"],
@@ -221,7 +221,7 @@ const P = [
     "src": "img/bureau-bourreau-minitel.jpg",
     "from": "n0",
     "caption": "Minitel Rose / dialogue et rencontres en libert\u00e9",
-    "at": [8, 44, 27] }
+    "at": [8, 50, 27] }
   ],
   "extra": [
    {
