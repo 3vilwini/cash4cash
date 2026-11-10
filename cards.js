@@ -180,7 +180,7 @@ const P = [
   "glyph": "img/violence-by-design-glyph.gif",
   "suit": "spade",
   "pole": "study",
-  "s": "<i>Violence by Design</i> is a printed supplement to <i>The Funambulist</i> #29, published as prison architecture competitions surge + \u201cpenitentiary innovation\u201d takes fashionable urgency across Ivy League departments. The prison industrial complex is one of debt production: its carceral technologies, from the bunk bed to the court fee, turn a sentence into an invoice, future time billed against present discipline. The system calls these lives wasted, then collects from them for decades. Artworks, case studies + essays trace the seemingly benign design decisions that sustain it, ending with a call-to-action to boycott any future participation.",
+  "s": "<i>Violence by Design</i> is a printed supplement to <i>The Funambulist</i> #29, published as prison architecture competitions surge + \u201cpenitentiary innovation\u201d trends across Ivy League departments. The prison industrial complex runs on carceral technologies that manufacture debt, billing a person\u2019s future time to the profit of the state. Artworks, case studies + essays trace the elaborate schemes that directly implicate designers + architects, as well as the broader construction of carceral logic.",
   "media": [
    {
     "frames": ["img/violence-by-design-01.jpg", "img/violence-by-design-02.jpg", "img/violence-by-design-03.jpg", "img/violence-by-design-04.jpg", "img/violence-by-design-05.jpg", "img/violence-by-design-06.jpg", "img/violence-by-design-07.jpg", "img/violence-by-design-08.jpg", "img/violence-by-design-09.jpg", "img/violence-by-design-10.jpg"],
