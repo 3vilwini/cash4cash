@@ -99,7 +99,7 @@ const P = [
   "glyph": "img/sunday-serve-us-glyph.gif",
   "suit": "joker",
   "pole": "neither",
-  "s": "LUV2LOSE is a strip-club-themed scoreboard + gambling interface for performative losing: use alongside any 4-player game + choose between accumulating chips + buying lap dances for the table.",
+  "s": "LUV2LOSE is a strip-club-themed scoreboard + gambling interface for performative losing: use alongside any 4-player game + choose between accumulating chips + lap dances for the table.",
   "ascii": ASCII_LOSE
  },
  {
