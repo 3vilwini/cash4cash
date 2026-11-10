@@ -189,7 +189,7 @@ function buildNodes(d){
         wrap.classList.add('shot');
         const cap = document.createElement('div');
         cap.className = 'k';
-        cap.textContent = m.caption;
+        cap.innerHTML = m.caption;
         wrap.appendChild(cap);
       }
       annex.appendChild(wrap); d.els.push(wrap);
@@ -205,7 +205,7 @@ function buildNodes(d){
       pic.src = m.src || ORCHID;
       const cap = document.createElement('div');
       cap.className = 'k';
-      cap.textContent = m.caption;
+      cap.innerHTML = m.caption;
       fig.appendChild(pic); fig.appendChild(cap);
       if(m.big > 1) fig.dataset.big = '1';
       annex.appendChild(fig); d.els.push(fig);
