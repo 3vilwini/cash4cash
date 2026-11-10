@@ -51,6 +51,7 @@ const P = [
     "frames": ["img/scenes-01.jpg", "img/scenes-02.jpg", "img/scenes-03.jpg", "img/scenes-04.jpg", "img/scenes-05.jpg", "img/scenes-06.jpg"],
     "every": 1000,
     "crop": "16 / 9",
+    "caption": "disney, universal, netflix, sony, a24, hbo / 2020-2026",
     "from": "n1", "at": [64.3, -4.5, 33.6] }
   ],
   "extra": [
