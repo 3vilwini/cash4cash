@@ -199,7 +199,7 @@ const P = [
  },
  {
   "t": "bureau bourreau",
-  "sAt": [9, -23, 30],
+  "sAt": [6, -12, 30],
   "glyph": "img/bureau-bourreau-rose.gif",
   "suit": "club",
   "pole": "study",
@@ -216,7 +216,7 @@ const P = [
     "src": "img/bureau-bourreau-minitel.jpg",
     "from": "n0",
     "caption": "Minitel Rose / dialogue et rencontres en libert\u00e9",
-    "at": [8, 63, 25] }
+    "at": [8, 70, 25] }
   ],
   "extra": [
    {
