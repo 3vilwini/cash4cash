@@ -32,7 +32,7 @@ const P = [
    { "src": LOSER, "z": 7, "from": "n0", "at": [80.18, 85.37, 21.74] },
    { "src": "img/wff.jpg", "from": "n0",
      "pair": [2, 6], "caption": "with alexa ann bonomo, iz, tiger dingsun", "at": [39.81, -3.8, 20.1] },
-   { "src": "img/surfaces-src-4.jpg", "from": "n0",
+   { "src": "img/surfaces-src-4.gif", "from": "n0",
      "pair": [-14, -22], "at": [26.86, 49.81, 20.1] }
   ]
  },
@@ -96,7 +96,7 @@ const P = [
   "sAt": [65.06, 39.67, 23.6],
   "nowires": true,
   "sKind": "inverted",
-  "glyph": "img/luv2lose-glyph.gif",
+  "glyph": "img/sunday-serve-us-glyph.gif",
   "suit": "joker",
   "pole": "neither",
   "s": "LUV2LOSE is a strip-club-themed scoreboard + gambling interface for performative losing: use alongside any 4-player game + choose between accumulating chips + buying lap dances for the table.",
