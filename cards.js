@@ -199,7 +199,7 @@ const P = [
  },
  {
   "t": "bureau bourreau",
-  "sAt": [3.04, -18, 30],
+  "sAt": [9, -18, 30],
   "glyph": "img/bureau-bourreau-rose.gif",
   "suit": "club",
   "pole": "study",
