@@ -26,7 +26,7 @@ const P = [
    { "src": BIENVENUE, "z": 1, "from": "n0", "at": [1.82, 61.1, 36.3] },
    { "src": "img/surfaces-src.jpg", "z": 2, "from": "n0", "at": [68.22, 62.79, 31.22] },
    { "src": "img/surfaces-src-2.jpg", "z": 3, "from": "n0", "at": [-2.04, 38.55, 23.6] },
-   { "src": "img/surfaces-src-3.jpg", "z": 4, "from": "n0", "at": [70.7, -11.01, 23.6] },
+   { "src": "img/surfaces-src-3.gif", "z": 4, "from": "n0", "at": [70.7, -11.01, 23.6] },
    { "src": GOODBYE, "z": 5, "from": "n0", "at": [84.25, 15.26, 17.86] },
    { "src": VERAKOX, "z": 6, "from": "n0", "at": [41.93, 69.68, 20.67] },
    { "src": LOSER, "z": 7, "from": "n0", "at": [80.18, 85.37, 21.74] },
