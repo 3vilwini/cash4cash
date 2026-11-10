@@ -164,13 +164,13 @@ const P = [
   "imgFrom": "card",
   "media": [
    { "src": MARXXXISM, "at": [3.28, -8.98, 41.62] },
-   { "src": "img/marxism-real-true-love.png", "at": [62, 70, 18] }
+   { "src": "img/marxism-real-true-love.png", "at": [62, 76, 18] }
   ],
   "extra": [
    {
     "from": "img",
-    "text": "MARXISM.XXX is a living syllabus + NSFW reference library, bc communists have fetishes too &lt;3 especially for the real, the thing we chase behind every surface: a premium category whose exchange rate we set every time we look. An adult site that reads \u201cfetish\u201d through both its kink and materialist definitions \u2014 labor, desire, property, surplus, technology \u2014 wherein fetishization is an infinite cycle: desire deconstructed in one place will eventually, but inevitably, project itself onto another state.",
-    "at": [59.57, -6.86, 23.6]
+    "text": "MARXISM.XXX is a living syllabus + NSFW reference library, bc communists have fetishes too &lt;3 The oldest erotic technology is imagination; the newest is proof. We\u2019re anxious about being deceived \u2014 fake news, generated rumors, the body that never existed \u2014 yet an image\u2019s significance lies in how we negotiate its meaning, not in whether it has true value. Instead of demanding that images prove themselves, what if we let them propose a world rather than confirm one? Read through both its kink + materialist definitions, \u201cfetish\u201d here is never truly broken: desire deconstructed in one place will inevitably project itself onto another.",
+    "at": [59.57, -16, 23.6]
    }
   ]
  },
